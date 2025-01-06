@@ -1,0 +1,26 @@
+Origin: Othello is a modern version of the ancient game Reversi, which was invented in the late 19th century by either Englishmen Lewis Waterman or John Mollett.
+Name: The game was renamed Othello in 1971 by Japanese game designer Goro Hasegawa, who published it under the trademark "Othello."
+Shakespearean Influence: The name "Othello" is inspired by William Shakespeare's play of the same name, reflecting the game's themes of conflict and strategy.
+Board: The game is played on an 8x8 grid, similar to a chessboard, but without any markings.
+Discs: Othello uses 64 double-sided discs (black on one side and white on the other) as game pieces. Although this adaptation is missing a few pieces and position on the board.
+Starting Position: The game starts with four discs placed in the center of the board in a square, with two black and two white discs diagonally adjacent.
+Objective: The goal is to have the majority of your color discs on the board at the end of the game.
+Gameplay: Players take turns placing discs on the board, with the placed disc "sandwiching" the opponent's discs between the newly placed disc and another disc of the same color, flipping the sandwiched discs to the current player's color.
+Legal Moves: A move is only legal if it results in at least one of the opponent's discs being flipped.
+Pass Rule: If a player has no legal moves, they must pass their turn. If neither player can move, the game ends.
+Corners: Corner squares are highly strategic positions because discs placed there cannot be flipped.
+Edge Play: Controlling the edges of the board can provide a strategic advantage, limiting the opponent's mobility.
+World Championships: The first Othello World Championship was held in 1977 in Tokyo, Japan.
+Computer Othello: The first computer program to play Othello was developed in 1976 by Nils Barricelli on a UNIVAC computer.
+Perfect Game: A perfect game of Othello can result in a 64-0 score, where one player occupies all 64 squares.
+Influence: Othello has influenced the design of other board games and video games, especially those involving strategic placement and flipping mechanics.
+AI Challenge: Othello has been a popular challenge for artificial intelligence research due to its complex strategy and simple rules.
+Tactics: Key tactics in Othello include "X-squares" (diagonally adjacent to corners), which are often dangerous to take early in the game.
+Opening Theory: Othello has a rich opening theory, with sequences of moves that have been extensively analyzed by top players.
+Endgame Strategy: In the endgame, players often focus on maximizing mobility and minimizing the opponent's available moves.
+Player Rankings: The Othello Federation maintains player rankings and organizes tournaments worldwide.
+Variants: There are several Othello variants, including different board sizes and rule modifications.
+Reversi Revival: The original game of Reversi experienced a revival in the 1970s alongside Othello's popularity.
+Education: Othello is often used as an educational tool to teach strategy, planning, and decision-making skills.
+Club Culture: There are many Othello clubs around the world where players meet regularly to compete and improve their skills.
+Game Creation: There is a secret menu code in which 2 AI's will go against one another.
