@@ -2,7 +2,6 @@ package Othello;
 
 import java.util.Scanner;
 
-//TODO Update Game Folder's and AI for Github
 
 public class Driver {
 
